@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "908335584088",
+    "project_id": "fir-auth-2526d",
+    "storage_bucket": "fir-auth-2526d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908335584088:android:0e96d136fecfd0a06acb2d",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908335584088-tc33vocrgfbmh78l4qgsmg9q1ei5lirv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authentication",
+            "certificate_hash": "2e4aa025be3da865586a97aa240a856a32604eaa"
+          }
+        },
+        {
+          "client_id": "908335584088-tet02b3t149ifpm0l4bb6t5bi6shnjh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7lThu0gt4XD6CN6gEs5MPBz8ozlT_GQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908335584088-tet02b3t149ifpm0l4bb6t5bi6shnjh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908335584088:android:8931304791414a4e6acb2d",
+        "android_client_info": {
+          "package_name": "com.example.rmet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908335584088-tet02b3t149ifpm0l4bb6t5bi6shnjh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7lThu0gt4XD6CN6gEs5MPBz8ozlT_GQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908335584088-tet02b3t149ifpm0l4bb6t5bi6shnjh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
